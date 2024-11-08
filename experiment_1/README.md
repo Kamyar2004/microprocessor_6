@@ -50,7 +50,7 @@
 <br>
 
 <div align="center">
-<img src="/media/7segment-pinout.png" width="300px" height="600px">
+<img src="/media/7segment-pinout.png" width="200px" height="400px">
 </div>
 
 ---
