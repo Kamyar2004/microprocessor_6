@@ -102,7 +102,7 @@ void loop() {
 
 ---
 
-### شرح کارکرد مدار به صورت ویدیویی 🎥
+### تصویر مدار 🖼️
 
 <div align="center">
 <img src="/media/microprocessor_18.jpg">
